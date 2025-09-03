@@ -1,9 +1,11 @@
 #This is an IoT Project based on Fog Computing Environment.
 
 Things done are in the file " CustomExample.java ":-
-  1. Modify the simulation or create your own IoT tasks
-  2. Measure latency, energy usage, and more
-  3. Run different offloading scenarios and collect results
+  1. Implemented IoT Task Scheduler using Java, iFogSim, and Fog Computing principles.
+  2. Modify the simulation or create your own IoT tasks
+  3. Measure latency, energy usage, and more
+  4. Run different offloading scenarios and collect results
+  5. Reduced the latency by approx 97.46%. 
 
 
 Output:- 
